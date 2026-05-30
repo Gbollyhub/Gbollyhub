@@ -58,30 +58,9 @@ I work end to end — API architecture, database design, data migrations, DevOps
 
 ---
 
-## Experience Highlights
-
-```
-Lumina Learning        Full Stack Developer    2022 – Present   London, UK
-Zenith Bank PLC        Full Stack Developer    2020 – 2022      Lagos, Nigeria
-United Bank for Africa Frontend Developer      2019 – 2020      Lagos, Nigeria
-```
-
----
-
-## GitHub Stats
-
 <div align="center">
 
-![Saheed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gbollyhub&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gbollyhub&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*Open to senior engineering roles, technical co-founder discussions, and high-impact consulting.*
+*Open to fullstack engineering roles, technical co-founder discussions, and high-impact consulting.*
 
 **[Get in touch →](mailto:aliasgbolly@gmail.com)**
 
